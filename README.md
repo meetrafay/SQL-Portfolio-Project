@@ -54,11 +54,11 @@ The dataset is sourced from Kaggle: [Stack Overflow Dataset](https://www.kaggle.
 ## 📜 SQL Scripts
 | Query Type | SQL File |
 |------------|------------|
-| Basic Queries | [`queries/basics.sql`](queries/basics.sql) |
-| Joins | [`queries/joins.sql`](queries/joins.sql) |
-| Subqueries | [`queries/subqueries.sql`](queries/subqueries.sql) |
-| Common Table Expressions (CTEs) | [`queries/cte.sql`](queries/cte.sql) |
-| Advanced SQL | [`queries/advanced_queries.sql`](queries/advanced_queries.sql) |
+| Basic Queries | [`queries/basics.sql`](sql_porfolio_part01.sql) |
+| Joins | [`queries/joins.sql`](sql_porfolio_part02.sql) |
+| Subqueries | [`queries/subqueries.sql`](sql_porfolio_part03.sql) |
+| Common Table Expressions (CTEs) | [`queries/cte.sql`](sql_porfolio_part04.sql) |
+| Advanced SQL | [`queries/advanced_queries.sql`](sql_porfolio_part05.sql) |
 
 ## 🚀 Running the Queries
 - Ensure you have **MySQL or PostgreSQL** installed.
